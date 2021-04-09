@@ -2,7 +2,6 @@
 
 <div style="display: inline_block">
     <img src="https://github-readme-stats.vercel.app/api?username=gabrielkrug&theme=gotham&count_private=true&show_icons=true" alt="GitHub Stats" align="right"/>
-    <br>
     <p align="center">I'm a Materials Engineer from São Paulo (SP), Brazil 📚</p>
     <p align="center">I'm currently learning <strong>JavaScript</strong>, <strong>HTML</strong> and <strong>CSS</strong> 🧠</p>
     <p align="center">How to reach me: <a href="mailto: gabrielkrug@hotmail.com">gabrielkrug@hotmail.com 📧</a></p>
